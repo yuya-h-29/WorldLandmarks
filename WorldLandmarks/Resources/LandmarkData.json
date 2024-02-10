@@ -1,0 +1,155 @@
+{
+    "landmarks":[
+        {
+            "id": 1,
+            "name": "Great Pyramid of Giza",
+            "location": "Giza, Egypt"
+        },
+        {
+            "id": 2,
+            "name": "Colosseum",
+            "location": "Rome, Italy"
+        },
+        {
+            "id": 3,
+            "name": "Taj Mahal",
+            "location": "Agra, India"
+        },
+        {
+            "id": 4,
+            "name": "Christ the Redeemer",
+            "location": "Rio de Janeiro, Brazil"
+        },
+        {
+            "id": 5,
+            "name": "Machu Picchu",
+            "location": "Peru"
+        },
+        {
+            "id": 6,
+            "name": "Chichen Itza",
+            "location": "Yucatán, Mexico"
+        },
+        {
+            "id": 7,
+            "name": "Petra",
+            "location": "Jordan"
+        },
+        {
+            "id": 8,
+            "name": "The Forbidden City",
+            "location": "Beijing, China"
+        },
+        {
+            "id": 9,
+            "name": "The Parthenon",
+            "location": "Athens, Greece"
+        },
+        {
+            "id": 10,
+            "name": "Burj Khalifa",
+            "location": "Dubai, UAE"
+        },
+        {
+            "id": 11,
+            "name": "Angkor Wat",
+            "location": "Siem Reap, Cambodia"
+        },
+        {
+            "id": 12,
+            "name": "Eiffel Tower",
+            "location": "Paris, France"
+        },
+        {
+            "id": 13,
+            "name": "Statue of Liberty",
+            "location": "New York City, USA"
+        },
+        {
+            "id": 14,
+            "name": "Sydney Opera House",
+            "location": "Sydney, Australia"
+        },
+        {
+            "id": 15,
+            "name": "Leaning Tower of Pisa",
+            "location": "Pisa, Italy"
+        },
+        {
+            "id": 16,
+            "name": "Empire State Building",
+            "location": "New York City, USA"
+        },
+        {
+            "id": 17,
+            "name": "Golden Gate Bridge",
+            "location": "San Francisco, USA"
+        },
+        {
+            "id": 18,
+            "name": "Great Wall of China",
+            "location": "China"
+        },
+        {
+            "id": 19,
+            "name": "Stonehenge",
+            "location": "Wiltshire, England"
+        },
+        {
+            "id": 20,
+            "name": "Louvre Museum",
+            "location": "Paris, France"
+        },
+        {
+            "id": 21,
+            "name": "Table Mountain",
+            "location": "Cape Town, South Africa"
+        },
+        {
+            "id": 22,
+            "name": "Kremlin",
+            "location": "Moscow, Russia"
+        },
+        {
+            "id": 23,
+            "name": "Acropolis",
+            "location": "Athens, Greece"
+        },
+        {
+            "id": 24,
+            "name": "Lincoln Memorial",
+            "location": "Washington, D.C., USA"
+        },
+        {
+            "id": 25,
+            "name": "Moai Statues",
+            "location": "Easter Island"
+        },
+        {
+            "id": 26,
+            "name": "CN Tower",
+            "location": "Toronto, Canada"
+        },
+        {
+            "id": 27,
+            "name": "Mount Rushmore",
+            "location": "South Dakota, USA"
+        },
+        {
+            "id": 28,
+            "name": "St. Basil's Cathedral",
+            "location": "Moscow, Russia"
+        },
+        {
+            "id": 29,
+            "name": "Space Needle",
+            "location": "Seattle, USA"
+        },
+        {
+            "id": 30,
+            "name": "Atomium",
+            "location": "Brussels, Belgium"
+        }
+    ]
+}
+
