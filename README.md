@@ -1,4 +1,4 @@
-# WorldLandmarks
+# 🌏WorldLandmarks
 ### World landmarks in a filterable list. This is a sample project for my medium post.👇
 [Build Empty State Views in SwiftUI with ContentUnavailableView](https://medium.com/@tzou11291996/build-empty-state-views-in-swiftui-with-contentunavailableview-e7af108b5c94)
 
