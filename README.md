@@ -11,7 +11,7 @@ There are no network calls, instead, I used some JSON data to populate the list 
 
 <br/>
 
-## Screenshots & Gif
+## Screenshots & GIFs
 
 ![Simulator Screen Recording - iPhone 15 - 2024-02-12 at 19 06 58](https://github.com/yuya-h-29/WorldLandmarks/assets/54800510/26b59893-16d3-4ac8-8011-9fc589fc76f7)
 
